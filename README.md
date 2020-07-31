@@ -6,6 +6,7 @@ Challenge: Write calculator app using as many programming languages as you can.
 - Must support addition, subtraction, multiplication
 - For simplicity, the numbers will be only integers
 - Input/Output method can be adjusted according to the platform running the language.
+- There should be a README.md file specifying how to run your program
 
 Restrictions:
 - Must use Object Oriented features if the language supports it
