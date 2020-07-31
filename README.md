@@ -1,6 +1,6 @@
 # Calculator Challenge
 
-Challenge: Write calculator app using as many programming languages as you can.
+Challenge: Write calculator app using as many programming languages/platforms as you can.
 - You should be able to use the calculator multiple times
 - For simplicity, don't need to support more than one operation.
 - Must support addition, subtraction, multiplication
