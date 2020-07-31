@@ -10,6 +10,8 @@ Challenge: Write calculator app using as many programming languages/platforms as
 
 Restrictions:
 - Must use Object Oriented features if the language supports it
+  - Should have fields num1, num2, operation, and functions run() (main loop), calculate(), clear()
+  - calculate() will only be called after all fields have been assigned.
 - Multiplication must be done using loops
 
 Example:
